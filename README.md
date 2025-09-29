@@ -1,3 +1,12 @@
+Update
+======
+See <https://github.com/RhetTbull/apple-plj-parser> for a much better job!
+The mystery format is protocol buffers. 
+
+Old stuff retained for posterity. 
+
+
+
 Apple's PLJ or Photo Library Journal (PLJ) binary Property List Journal (PLJ) format.
 ==================================================================
 
